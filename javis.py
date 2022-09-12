@@ -186,9 +186,7 @@ if __name__=="__main__":
                 speak("playing"+song)
                 pywhatkit.playonyt(song)
 
-        elif" who is shambhavi" in query or "shambhavi" in query:
-
-            speak("she is the most cute beautiful person that i ever meet and my crush and love too")
+        
 
 
         elif "switch the window" in query:
